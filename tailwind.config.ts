@@ -13,6 +13,7 @@ const config: Config = {
         require("@tailwindcss/forms")({
             strategy: "class",
         }),
+        "prettier-plugin-tailwindcss",
     ],
 };
 export default config;

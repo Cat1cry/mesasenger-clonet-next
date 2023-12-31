@@ -31,7 +31,7 @@ const useRoutes = () => {
                 icon: HiArrowLeftOnRectangle,
             },
         ],
-        [pathname, conversationId]
+        [pathname, conversationId],
     );
 
     return routes;
