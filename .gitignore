@@ -5,3 +5,12 @@ node_modules
 .env.local
 next-env.d.ts
 
+.idea/.gitignore
+.idea/dataSources.xml
+.idea/messenger-clone.iml
+.idea/modules.xml
+.idea/prettier.xml
+.idea/vcs.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
+.vscode/settings.json
